@@ -229,7 +229,5 @@ svg,.profile {height:20px;width:20px}
 
 .iThmb.pThmb.iyt{border-radius: 5px} .pThmb{border-radius: 5px 5px 0 0;} .onIndx .blogPts > *{padding: 0 0 45px;}
 
-article.ntry.ps.post{padding: 10px; border-radius: 10px; box-shadow: 0 5px 35px rgba(0,0,0,.07)}
-
 footer ul { list-style: none; margin: 0; padding: 0; } .cdtIn .mSoc {justify-content: flex-end;}
 .mLang, .mSoc{display:flex;position:relative;width:calc(100% + 14px);left:-7px;right:-7px} .mLang .a{width:30px;height:30px;display:flex;align-items:center;justify-content:center} .mLang .a::before{content:attr(data-text)} .mLang li.u{font-size:12px;text-transform:uppercase} .mLang li:not(:last-child){display:flex;align-items:center} .mLang li:not(:last-child)::after{content:'';height:14px; border-left:1px solid #999; margin:0 5px;opacity:.7; flex:0 0} .mLang span, .mSoc span{opacity:.5} .mSoc >*{position:relative} .mSoc svg{z-index:1} .mSoc svg{width:19px;height:19px;opacity:.8} footer .LinkList ul.mSoc li::before{content: '';}
